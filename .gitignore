@@ -1,0 +1,48 @@
+# ========================
+# Builds
+# ========================
+Builds/
+bin/
+Builds/**/Debug/
+Builds/**/Release/
+
+# ========================
+# Compiled libraries / object files
+# ========================
+*.a
+*.lib
+*.o
+*.obj
+*.dll
+*.dylib
+*.so
+
+# ========================
+# JUCE files
+# ========================
+*.jucer.user
+*.jucer.cache
+
+# ========================
+# Xcode files
+# ========================
+*.xcworkspace
+*.xcuserdata
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# ========================
+# System files
+# ========================
+.DS_Store
+*.swp
+*.swo
+
+# ========================
+# Logs
+# ========================
+*.log
+
